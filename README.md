@@ -1,5 +1,5 @@
 ### 👋 Hi, I am Ritwik.
-I am an **Information Technology** undergraduate from IEM Kolkata. I usually code in python or C and I am interested in Data analytics, ML and Computer Vision. Playing with algorithms and data structttures is also something that I really like. <br>
+I am an **Information Technology** undergraduate from IEM Kolkata. I usually code in python or C and I am interested in Data analytics, ML and Computer Vision. Playing with algorithms and data structures is also something that I really like. <br>
 I can easily be found enjoying cricket matches if I'm not working on something geeky!
 
 😄 **Pronouns:** he/his <br/>
