@@ -5,10 +5,8 @@ I can easily be found enjoying cricket matches if I'm not working on something g
 😄 **Pronouns:** he/his <br/>
 🛠️ **Current project:** Working on Computer vision projects.
 
-----
-
-## Connect with me  
-<div align="center">
+### Connect with me 
+<div align="center"> 
 <a href="https://twitter.com/RitwikSingh11" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
